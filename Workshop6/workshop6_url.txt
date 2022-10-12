@@ -1,0 +1,1 @@
+https://github.com/merrymitch/IaCTesting/actions/workflows/codacy-analysis.yaml
