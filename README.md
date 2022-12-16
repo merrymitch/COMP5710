@@ -1,9 +1,10 @@
 # COMP 5710
-- Software Quality Assurance Workshops and Project
-- DISCLAIMER: By duplicating, copying, or redistributing material found in this the website and GitHub Repository, you(the "User") are in direct violation of Auburn University Title XII Student Academic Honesty Code: Violations 1201.4 (Violations of the Student Academic Honesty Code).
+COMP 5710 Workshops
+Software Quality Assurance
+
 ```
 
-        Total Views per Day from 2022-10-06 to 2022-12-15
+        Total Views per Day from 2022-10-06 to 2022-12-16
 
         Repository Views
       35 ┼          ╭╮
@@ -16,13 +17,13 @@
       19 ┤   ╭╮     ││││                 │ │╭╮
       16 ┤   ││     ││││            ╭╮   │ │││
       14 ┤   ││     ││││    ╭╮      ││   │ │││
-      12 ┤   ││     ││││    ││      ││   │ │││
-       9 ┤   ││     │││╰╮╭╮ ││      ││   │ │││
-       7 ┤   ││ ╭╮╭╮│││ │││ ││╭╮    ││  ╭╯ │││
-       5 ┤   ││╭╯╰╯││╰╯ │││ ││││    ││  │  │││
-       2 ┤  ╭╯╰╯   ││   │││ ││││  ╭╮│╰─╮│  │││
-       0 ┼──╯      ╰╯   ╰╯╰─╯╰╯╰──╯╰╯  ╰╯  ╰╯╰──────────────────────────────────
+      12 ┤   ││     ││││    ││      ││   │ │││                                 ╭╮
+       9 ┤   ││     │││╰╮╭╮ ││      ││   │ │││                                 ││
+       7 ┤   ││ ╭╮╭╮│││ │││ ││╭╮    ││  ╭╯ │││                                 ││
+       5 ┤   ││╭╯╰╯││╰╯ │││ ││││    ││  │  │││                                 ││
+       2 ┤  ╭╯╰╯   ││   │││ ││││  ╭╮│╰─╮│  │││                                 ││
+       0 ┼──╯      ╰╯   ╰╯╰─╯╰╯╰──╯╰╯  ╰╯  ╰╯╰─────────────────────────────────╯╰
 
-        Chart last updated - Thu Dec 15 00:39:27 2022 UTC
+        Chart last updated - Fri Dec 16 00:35:48 2022 UTC
         
 ```
