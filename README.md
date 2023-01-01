@@ -4,7 +4,7 @@ Software Quality Assurance
 
 ```
 
-        Total Views per Day from 2022-10-06 to 2022-12-31
+        Total Views per Day from 2022-10-06 to 2023-01-01
 
         Repository Views
       35 ┼          ╭╮
@@ -22,8 +22,8 @@ Software Quality Assurance
        7 ┤   ││ ╭╮╭╮│││ │││ ││╭╮    ││  ╭╯ │││                                 ││
        5 ┤   ││╭╯╰╯││╰╯ │││ ││││    ││  │  │││                                 ││
        2 ┤  ╭╯╰╯   ││   │││ ││││  ╭╮│╰─╮│  │││                                 ││
-       0 ┼──╯      ╰╯   ╰╯╰─╯╰╯╰──╯╰╯  ╰╯  ╰╯╰─────────────────────────────────╯╰───────────────
+       0 ┼──╯      ╰╯   ╰╯╰─╯╰╯╰──╯╰╯  ╰╯  ╰╯╰─────────────────────────────────╯╰────────────────
 
-        Chart last updated - Sat Dec 31 00:35:15 2022 UTC
+        Chart last updated - Sun Jan  1 00:40:51 2023 UTC
         
 ```
